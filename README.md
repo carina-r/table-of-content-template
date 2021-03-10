@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "E-Book mit automatischem Inhaltsverzeichnis" 
 </p>
 
 ## E-Book mit automatischem Inhaltsverzeichnis
-*E-Book mit automatischem Inhaltsverzeichnis* ist eine Applikation, mit der dynamisch ein Inhaltsverzeichnis für eine HTML Website erstellt wird. Anwender können dieses Inhaltsverzeichnis ein und ausblenden. Die h1 und h2 Überschriften werden im Inhaltsverzeichnis angezeigt. Diese Template ist der Ausgangspunkt von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*E-Book mit automatischem Inhaltsverzeichnis* ist eine Applikation, mit der dynamisch ein Inhaltsverzeichnis für eine HTML Website erstellt wird. Anwender können dieses Inhaltsverzeichnis ein und ausblenden. Die h1 und h2 Überschriften werden im Inhaltsverzeichnis angezeigt. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
 
 ## Demo
 
