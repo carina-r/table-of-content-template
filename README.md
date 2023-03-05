@@ -8,6 +8,6 @@ Template für die Einsendeaufgabe "E-Book mit automatischem Inhaltsverzeichnis" 
 
 ## Demo
 
-Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://tableofcontent.webmasters-akademie.dev/">https://tableofcontent.webmasters-akademie.dev/</a>
+Eine Demo der Einsendeaufgabe findet sich unter: <a href="https://tableofcontent.webmasters.dev/">https://tableofcontent.webmasters.dev/</a>
 
 ![CleanShot 2021-03-10 at 11 52 22](https://user-images.githubusercontent.com/42392570/110619526-3a6a7700-8198-11eb-8c13-4ef67c9fd8a0.gif)
